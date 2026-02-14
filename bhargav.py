@@ -7,3 +7,7 @@ print(greet("Bhargav"))
 print("Bhadvayu")
 print("bandh ho")
 print("hello biradrr")
+
+def addbranch(name):
+    return f"Hello, {name}! The adding branch."
+print(addbranch("bhargav"))
