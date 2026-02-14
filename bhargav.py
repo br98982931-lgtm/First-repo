@@ -12,3 +12,6 @@ def addbranch(name):
     return f"Hello, {name}! The adding branch."
 print(addbranch("bhargav"))
 print("Kem Cho bhai")
+def addbranchB(name):
+    return f"Brach B added by {name}."
+print(addbranchB("Ayush"))
